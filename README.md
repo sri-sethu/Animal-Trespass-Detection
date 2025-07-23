@@ -21,8 +21,11 @@ Images captured via CCTV are predominantly from daytime, resulting in lighting-b
 #### 2. CAM + DRS Annotator
 We use a VGG-based network with Discriminative Region Suppression (DRS) to expand the attention from highly discriminative parts to the full object extent.
 
-![DRS Module](figures/image-1.png)
-![Novel Annotator](figures/image-2.png)
+##### DRS Module
+![DRS Module](figures/DRS.png)
+
+##### Annotator Pipeline
+![Novel Annotator](figures/Pipeline.png)
 
 #### 3. Pseudo Label Generation
 Class Activation Maps are thresholded and converted into bounding boxes through connected component analysis. These serve as pseudo-annotations.
