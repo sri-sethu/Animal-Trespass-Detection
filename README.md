@@ -2,6 +2,11 @@
 
 This repository contains notebooks implementing a weakly supervised approach for detecting animal trespassing in agricultural and residential areas using CCTV images. The method overcomes the lack of bounding box annotations and class imbalance between day and night scenarios through a combination of Class Activation Maps (CAMs), a Discriminative Region Suppression (DRS) module, and adversarial domain debiasing.
 
+## Authors
+* Sri Sethu Madhavan S
+* Mohamed Hassan K
+* Bhuvaneswari S
+ 
 ## Repository Contents
 
 > All implementation is in `.ipynb` format for better reproducibility and explanation of intermediate outputs.
