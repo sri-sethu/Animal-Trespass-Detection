@@ -5,7 +5,7 @@ This repository contains notebooks implementing a weakly supervised approach for
 ## Authors
 * Sri Sethu Madhavan S
 * Mohamed Hassan K
-* Bhuvaneswari S
+* Dr. Bhuvaneswari S
  
 ## Repository Contents
 
